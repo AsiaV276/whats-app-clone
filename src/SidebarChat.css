@@ -1,0 +1,22 @@
+.sidebarChat {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px;
+  cursor: pointer;
+  border-bottom: 1px solid #f6f6f6;
+}
+
+.sidebarChat .sidebarChat-info {
+  margin-left: 15px;
+}
+
+.sidebarChat .sidebarChat-info h2 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.sidebarChat:hover {
+  background-color: #ebebeb;
+}
+/*# sourceMappingURL=SidebarChat.css.map */
